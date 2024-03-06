@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7ZwusaVqqtTCJ3qjtUWYbyi5zsFe2lQlVpuWWVq+c/mJ3URV23ex4ybfhABhBYJBgRDf9TrJCWKm4amOWNhXQ==",
+  "success": true,
+  "projectFilePath": "/home/nazmul/Codes/DotNet/MVCs/EmployeeData/EmployeeData.csproj",
+  "expectedPackageFiles": [
+    "/home/nazmul/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/nazmul/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/nazmul/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

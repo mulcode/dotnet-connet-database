@@ -1,0 +1,12 @@
+@model List<EmployeeData.Models.Employee>
+
+<h2>Employees</h2>
+
+@foreach(Employee employee in Model)
+{
+    <div>
+        <h3>Name :: @employee.Name</h3>
+        <h4>ID :: @employee.Id</h4>
+        <h4>Age :: @employee.Age</h4>
+    </div>
+}

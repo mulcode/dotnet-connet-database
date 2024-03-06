@@ -1,0 +1,12 @@
+@model List<EmployeeData.Models.Product>;
+
+    <h1>Products</h1>
+
+    @foreach(Product product in Model)
+    {
+        <div>
+            <h2> @product.Name </h2>
+            <h3> @product.Id</h3>
+            <h4> @product.Country </h4>
+        </div>
+    }
